@@ -1,41 +1,33 @@
 ---
-title: "temp_website"
+title: "Welcome"
 ---
 
-# 🚀 Quarto Render Test
+# 👋 Hello, I’m Stanberley
 
-If you can see this page online, it means:
+I am a student at **Singapore Institute of Technology (SIT)**, currently taking  
+**Bachelor of Science with Honours in Applied Computing with a specialisation in Fintech**.
 
-- You edited **index.qmd**
-- You ran **quarto render**
-- GitHub Pages updated correctly
-
----
-
-## 🔄 Change Test
-
-🕒 Render time: **THIS SHOULD CHANGE**
-
-✏️ Edit this line and re-render:
-> I last updated this page on **CHANGE ME**
+I am particularly interested in how blockchain can improve **transparency, security, and efficiency**
+in areas such as digital payments, decentralised finance (DeFi), and financial data management.
 
 ---
 
-## 📊 Simple Example Section
+## 📸 About Me
 
-Here is a simple list to prove formatting works:
-
-- Item A
-- Item B
-- Item C
+::: {.center}
+![My Photo](images/profilepicture.jpg){width=200}
+:::
 
 ---
 
-## ✅ Final Confirmation
+## 🎯 Purpose of This Website
 
-If you see:
-- This heading
-- This list
-- The updated text you edited
+This GitHub Pages site is created as part of **Assessment 1**.  
+It serves as:
 
-🎉 **Your Quarto → GitHub Pages pipeline is working perfectly.**
+- My personal course website  
+- A platform to present data visualisation work  
+- A record of my learning journey in AAI1001
+- A Showcase about myself, including my academic interests and career aspirations in FinTech and blockchain
+
+---

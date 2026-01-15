@@ -1,6 +1,6 @@
 /* css styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Lucida Handwriting, Cursive;
     font-size: 16px;
 }
 
@@ -15,4 +15,9 @@ h1,h2{
 }
 h3,h4{
   font-size: 14pt;
+}
+
+.navbar-brand img {
+  height: 70px;   /* try 60px first */
+  max-height: none;
 }

@@ -2,8 +2,12 @@
 title: "About"
 ---
 
-About this site
+I enjoy learning new technical skills related to data, programming, and
+visualisation. Through this module, I aim to improve my ability to:
 
-```{r}
-1 + 1
-```
+- Understand real-world datasets  
+- Apply data engineering concepts  
+- Create clear and effective visualisations
+
+
+## About My Course

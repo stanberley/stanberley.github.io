@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Welcome",
     "section": "",
-    "text": "If you can see this page online, it means:\n\nYou edited index.qmd\nYou ran quarto render\nGitHub Pages updated correctly\n\n\n\n\n🕒 Render time: THIS SHOULD CHANGE\n✏️ Edit this line and re-render: &gt; I last updated this page on CHANGE ME\n\n\n\n\nHere is a simple list to prove formatting works:\n\nItem A\nItem B\nItem C\n\n\n\n\n\nIf you see: - This heading - This list - The updated text you edited\n🎉 Your Quarto → GitHub Pages pipeline is working perfectly."
+    "text": "I am a student at Singapore Institute of Technology (SIT), currently taking\nBachelor of Science with Honours in Applied Computing with a specialisation in Fintech.\nI am particularly interested in how blockchain can improve transparency, security, and efficiency in areas such as digital payments, decentralised finance (DeFi), and financial data management.\n\n\n\n\n\n\n\nMy Photo\n\n\n\nI enjoy learning new technical skills related to data, programming, and visualisation. Through this module, I aim to improve my ability to:\n\nUnderstand real-world datasets\n\nApply data engineering concepts\n\nCreate clear and effective visualisations\n\n\n\n\n\nThis GitHub Pages site is created as part of Assessment 1.\nIt serves as:\n\nMy personal course website\n\nA platform to present data visualisation work\n\nA record of my learning journey in AAI1001\nA Showcase more about myself, including my academic interests and career aspirations in FinTech and blockchain"
   },
   {
     "objectID": "index.html#change-test",
@@ -33,5 +33,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome",
+    "section": "",
+    "text": "My Photo\n\n\n\nI enjoy learning new technical skills related to data, programming, and visualisation. Through this module, I aim to improve my ability to:\n\nUnderstand real-world datasets\n\nApply data engineering concepts\n\nCreate clear and effective visualisations"
+  },
+  {
+    "objectID": "index.html#purpose-of-this-website",
+    "href": "index.html#purpose-of-this-website",
+    "title": "Welcome",
+    "section": "",
+    "text": "This GitHub Pages site is created as part of Assessment 1.\nIt serves as:\n\nMy personal course website\n\nA platform to present data visualisation work\n\nA record of my learning journey in AAI1001\nA Showcase more about myself, including my academic interests and career aspirations in FinTech and blockchain"
   }
 ]
