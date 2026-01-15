@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "temp_website",
+    "section": "",
+    "text": "If you can see this page online, it means:\n\nYou edited index.qmd\nYou ran quarto render\nGitHub Pages updated correctly\n\n\n\n\n🕒 Render time: THIS SHOULD CHANGE\n✏️ Edit this line and re-render: &gt; I last updated this page on CHANGE ME\n\n\n\n\nHere is a simple list to prove formatting works:\n\nItem A\nItem B\nItem C\n\n\n\n\n\nIf you see: - This heading - This list - The updated text you edited\n🎉 Your Quarto → GitHub Pages pipeline is working perfectly."
+  },
+  {
+    "objectID": "index.html#change-test",
+    "href": "index.html#change-test",
+    "title": "temp_website",
+    "section": "",
+    "text": "🕒 Render time: THIS SHOULD CHANGE\n✏️ Edit this line and re-render: &gt; I last updated this page on CHANGE ME"
+  },
+  {
+    "objectID": "index.html#simple-example-section",
+    "href": "index.html#simple-example-section",
+    "title": "temp_website",
+    "section": "",
+    "text": "Here is a simple list to prove formatting works:\n\nItem A\nItem B\nItem C"
+  },
+  {
+    "objectID": "index.html#final-confirmation",
+    "href": "index.html#final-confirmation",
+    "title": "temp_website",
+    "section": "",
+    "text": "If you see: - This heading - This list - The updated text you edited\n🎉 Your Quarto → GitHub Pages pipeline is working perfectly."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]

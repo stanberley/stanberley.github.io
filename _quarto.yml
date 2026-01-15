@@ -6,15 +6,15 @@ website:
   title: "temp_website"
   favicon: favicon.png
   navbar:
-  logo: logo.png
-  left:
-    - href: index.qmd
-      text: Home
-    - about.qmd
+    logo: logo.png
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
 
 format:
   html:
-    theme:cosmo
+    theme: cosmo
     css: styles.css
     toc: true
     toc-depth: 3
