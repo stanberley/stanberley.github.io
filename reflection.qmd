@@ -11,4 +11,4 @@ GenAI tools such as ChatGPT can be valuable in supporting my current studies:
 - Assist in problem-solving by suggesting possible approaches or debugging steps
 - - Allow customised instructions so that the GenAI tool is not a “yes-only” system, but can actively challenge assumptions, point out mistakes, and provide corrective feedback when needed. This encourages critical thinking rather than passive acceptance of generated responses.
 
-!(images/genAI.png){width=200}
+![-Elon Musk](images/genAI.png){width=200}
