@@ -11,6 +11,8 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: reflection.qmd
+        text: Reflection
 
 format:
   html:
