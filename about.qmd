@@ -11,5 +11,5 @@ visualisation. Through this module, I aim to improve my ability to:
 
 
 ## About My Course
-{{< video videos/sitfintech.mp4 width="600" height="400" >}}
+{{< video https://www.youtube.com/watch?v=lHr1QaBS_Gc&t=221s width="600" height="400" >}}
 *This video explains the core modules, learning outcomes, and skills developed in the Applied Computing (FinTech) programme. It also highlights the strengths of the course and the strong demand for FinTech-related roles in the current job market.*
