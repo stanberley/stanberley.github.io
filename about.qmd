@@ -11,3 +11,4 @@ visualisation. Through this module, I aim to improve my ability to:
 
 
 ## About My Course
+{{< video https://www.youtube.com/watch?v=lHr1QaBS_Gc width="600" height="400" >}}
