@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
 I enjoy learning new technical skills related to data, programming, and
