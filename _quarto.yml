@@ -7,12 +7,13 @@ website:
   navbar:
     logo: images/logo.png
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: reflection.qmd
-        text: Reflection
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Reflection
+        href: reflection.qmd
+        
 
 format:
   html:
