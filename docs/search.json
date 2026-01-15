@@ -54,5 +54,12 @@
     "title": "About",
     "section": "About My Course",
     "text": "About My Course"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "🤖 GenAI tool that I have used:\n\n\nHow GenAI tools can assist me for my future study/work"
   }
 ]

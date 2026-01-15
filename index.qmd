@@ -22,7 +22,7 @@ in areas such as digital payments, decentralised finance (DeFi), and financial d
 
 ## 🎯 Purpose of This Website
 
-This GitHub Pages site is created as part of **Assessment 1**.  
+This GitHub Page site is created as part of **Assessment 1**.  
 It serves as:
 
 - My personal course website  
